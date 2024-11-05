@@ -301,7 +301,3 @@ const ProductsPage: React.FC = () => {
 ```
 
 **Mål:** Lära sig att skapa och typa Högre-Ordningens Komponenter i React med TypeScript.
-
-```
-
-```
